@@ -1,1 +1,1 @@
-# k8s-nginx-web-app
+# Kubernetes Nginx App
